@@ -85,9 +85,6 @@ I’m a motivated developer with experience in **Full Stack Development, Machine
 - JPMorganChase's Investment Banking on Forage
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Niveditha22-dot&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contact Me
