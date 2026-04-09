@@ -35,6 +35,15 @@ I’m a motivated developer with experience in **Full Stack Development, Machine
 
 ## 🚀 Featured Projects
 
+ 
+### 🔐 AI Secure Platform (Full Stack + AI)
+- Architected a **full-stack AI-powered security platform** with a clean HTML/CSS/JS frontend and a **FastAPI (Python) backend**
+- Integrated **Anthropic's Claude API** to enable intelligent, context-aware AI interactions within a secure environment
+- Designed and implemented **RESTful API endpoints** for seamless frontend-backend communication
+- Enforced security best practices: **environment variable management**, `.gitignore` configuration, and CORS handling
+- Demonstrates end-to-end ownership — from UI design to AI integration to backend deployment-readiness
+ 
+
 ### 🌍 TravelBharat (Full Stack Web App)
 - Built a tourism platform with **React + Node.js**
 - State-wise & city-wise structured data system
