@@ -1,112 +1,77 @@
-# Hi, I'm Nivedita R 👋  
-### 🚀 Full Stack Developer | ML Enthusiast | Problem Solver  
-
-🎓 B.E in Electronics & Telecommunication (Ramaiah Institute of Technology)  
-💻 Passionate about building scalable web apps & intelligent systems  
-📍 Bangalore, India  
-
----
-
-## 🔥 About Me
-I’m a motivated developer with experience in **Full Stack Development, Machine Learning, and UI Engineering**.  
-
-- 💡 Built real-world applications like **TravelBharat (Full Stack)**  
-- 🤖 Developed ML-based **Fitness Recommendation System**  
-- 🌐 Experience in **React, Node.js, Python & APIs**  
-- 🎯 Actively looking for **internship / developer roles**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-`Python` `C` `JavaScript`
-
-### 🌐 Web Development
-`HTML` `CSS` `React.js` `Node.js`
-
-### 🧠 Machine Learning
-`TensorFlow` `Data Analysis` `Model Training`
-
-### ⚙️ Tools
-`Git` `GitHub` `VS Code` `MATLAB`
-
----
-
-## 🚀 Featured Projects
-
+# Hi, I'm Niveditha R 👋
+### Full Stack Developer | Software Engineer | Final-Year ETE Student
  
-### 🔐 AI Secure Platform (Full Stack + AI)
-- Architected a **full-stack AI-powered security platform** with a clean HTML/CSS/JS frontend and a **FastAPI (Python) backend**
-- Integrated **Anthropic's Claude API** to enable intelligent, context-aware AI interactions within a secure environment
-- Designed and implemented **RESTful API endpoints** for seamless frontend-backend communication
-- Enforced security best practices: **environment variable management**, `.gitignore` configuration, and CORS handling
-- Demonstrates end-to-end ownership — from UI design to AI integration to backend deployment-readiness
+🎓 B.E in Electronics & Telecommunication Engineering, Ramaiah Institute of Technology (graduating September 2026)
+💻 Self-taught full-stack developer, ~8 months internship experience
+📍 Bangalore, India
  
-
-### 🌍 TravelBharat (Full Stack Web App)
-- Built a tourism platform with **React + Node.js**
-- State-wise & city-wise structured data system
-- Dynamic search, filtering & admin panel
-- ⚡ Optimized performance (<2s load time)
-
 ---
-
-### 🤖 Fitness App (Machine Learning)
-- ML-based personalized workout recommendation system
-- Activity recognition using health data
-- Built with Python & TensorFlow
-
+ 
+## About Me
+ 
+I build full-stack web applications and I'm interested in AI/LLM integration within full-stack products. Actively looking for SDE, SWE, and full-stack + AI intern/entry-level roles.
+ 
 ---
-
+ 
+## Tech Stack
+ 
+**Languages:** Python, JavaScript, C
+**Frontend:** React, Next.js, HTML, CSS
+**Backend:** Node.js, Express, FastAPI
+**Databases:** PostgreSQL
+**ML/AI:** PyTorch, Anthropic Claude API
+**Tools:** Git, GitHub, VS Code
+ 
+---
+ 
+## Featured Projects
+ 
+### 🛡️ [AI Secure Platform](https://github.com/Niveditha22-dot/ai-secure-platform-)
+AI-powered security platform that scans text, logs, files, and SQL for credentials, secrets, and injection risks.
+- FastAPI backend, Anthropic Claude API for contextual analysis, SSE streaming
+- 14-category detection engine (API keys, private keys, SQL injection, connection strings)
+- Secure key management, rate limiting
+### 🦈 [RiskForge](https://github.com/Niveditha22-dot/Stock-Analyser-Risk-Forge-)
+Portfolio risk assessment and stock prediction tool.
+- PyTorch LSTM for 15-day price prediction
+- Monte Carlo simulation with Cholesky decomposition, VaR/CVaR calculation
+- Live geopolitical/macro market intelligence, built with Streamlit
+### 🌍 [TravelBharat](https://github.com/Niveditha22-dot/TravelBharat)
+Full-stack India tourism platform with state-wise and city-wise exploration.
+- React frontend, Node.js/Express backend, PostgreSQL
+- Dynamic search, filtering, admin panel — [live demo](https://animated-empanada-ddec49.netlify.app)
+### 🏠 [Helper4U](https://github.com/Niveditha22-dot/helper4u)
+Platform connecting households with verified maids and nannies.
+- Next.js 14, Node.js, Express, PostgreSQL, JWT auth
+- Three-portal role-based access (household, helper, admin)
 ### 📚 Digital Library Management System
-- UI + backend integration using Python
-- Real-time book availability system
-- Search & filter functionality
-
+A library management system that combines my electronics background with full-stack development.
+- RFID/barcode scanning for book check-in/check-out, integrated with a microcontroller (Arduino)
+- Real-time book availability tracking synced from hardware scan events to the backend
+- Search & filter functionality, UI + backend integration in Python
 ---
-
-### 🎮 Rock Paper Scissors Game
-- Interactive browser game
-- Randomized logic + responsive UI
-
+ 
+## Experience
+ 
+### Full Stack Web Developer — Unified Mentor Pvt Ltd
+- Built and shipped full-stack web applications end-to-end, including TravelBharat
+- Developed REST APIs and integrated frontend-backend workflows
+- Optimized database queries and performance
+### Web Developer — Suvidha Foundation
+- Built and maintained dynamic web pages for foundation initiatives
+- Improved UI/UX across existing pages
+- Collaborated on content and feature updates for the organization's web presence
 ---
-
-## 💼 Experience
-
-### 💻 Full Stack Developer Intern  
-**Unified Mentor Pvt Ltd (2026)**  
-- Built scalable web app (TravelBharat)  
-- Developed APIs & optimized database performance  
-
-### 🌐 Web Developer  
-**Suvidha Foundation (2025)**  
-- Created dynamic web pages  
-- Improved UI/UX for foundation initiatives  
-
+ 
+## Certifications
+- Microsoft – Web Accessibility
+- Machine Learning Fundamentals
+- AI Concepts
+- Web Development with VS Code
+- JPMorganChase Advanced Software Engineering (Forage)
 ---
-
-## 📜 Certifications
-- Microsoft - Web Accessibility  
-- Machine Learning Fundamentals  
-- AI Concepts  
-- Web Development with VS Code  
-- JPMorganChase's Investment Banking on Forage
----
-
----
-
-## 📫 Contact Me
-📧 Email: nivedithar483@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/niveditha-r-09286a28b  
-
----
-
-## ⚡ What Makes Me Different
-✔ Real-world project experience  
-✔ Full stack + ML combination  
-✔ Fast learner with strong problem-solving mindset  
-
----
-
-⭐ *"I don’t just learn — I build."*
+ 
+## Contact
+📧 nivedithar483@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/niveditha-r-09286a28b)
+ 
